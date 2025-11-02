@@ -2,7 +2,7 @@
 
 **📖 Project Overview:**
 
-I built an advanced AI system that can forecast earthquake activity by combining time patterns and geographical relationships. This is one of the first successful attempts to use hybrid deep learning for earthquake prediction.
+Built an advanced AI system that can forecast earthquake activity by combining time patterns and geographical relationships. This is one of the first successful attempts to use hybrid deep learning for earthquake prediction.
 
 **🎯 What Problem This Solves:**
 
