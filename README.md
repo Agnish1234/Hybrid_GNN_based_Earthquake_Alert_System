@@ -1,0 +1,1 @@
+# Hybrid_GNN_based_Earthquake_Alert_System
